@@ -1,0 +1,13 @@
+Flask
+autogen-agentchat
+autogen-core
+autogen-ext
+pyautogen
+openai
+dotenv
+azure-identity
+azure-storage-blob
+azure-search-documents
+tiktoken
+PyMuPDF
+pyodbc
